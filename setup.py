@@ -20,7 +20,7 @@ setup(
     install_requires=[
     	"pandas == 0.24.0",
     	"pytz >= 2017.2",
-        "grpcio==1.16.1",
+        "grpcio==1.53.0",
         "grpcio-tools==1.16.1",
     ],
 )
